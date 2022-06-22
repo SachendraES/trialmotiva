@@ -30,7 +30,11 @@ dependencies:
   flutter:
     sdk: flutter
   adobe_xd: ^2.0.1
-
+  draggable_widget: ^2.0.0
+  amplify_flutter: ^0.4.0
+  amplify_auth_cognito: ^0.4.0
+  amplify_analytics_pinpoint: ^0.4.0
+  
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.

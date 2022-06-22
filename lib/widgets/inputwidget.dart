@@ -19,7 +19,9 @@ class InputWidjet extends StatelessWidget {
             customWidths: CustomSliderWidths(
               progressBarWidth: 15,
             ),
-            infoProperties: InfoProperties(mainLabelStyle: TextStyle())),
+            infoProperties: InfoProperties(
+                mainLabelStyle: TextStyle(
+                    color: Color.fromARGB(255, 34, 25, 25), fontSize: 70))),
         onChange: (double value) {
           print(value);
         });

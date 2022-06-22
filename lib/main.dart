@@ -16,6 +16,6 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         home: Scaffold(
-            backgroundColor: const Color(0xfff4f4f4), body: getstarted()));
+            backgroundColor: const Color(0xfff4f4f4), body: InputPage()));
   }
 }

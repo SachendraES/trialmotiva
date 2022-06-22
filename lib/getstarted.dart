@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:motiva8/signinpage.dart';
 import 'package:motiva8/widgets/firstpagewidget.dart';
 
-class getstarted extends StatelessWidget {
-  const getstarted({Key? key}) : super(key: key);
+class getStarted extends StatelessWidget {
+  const getStarted({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
